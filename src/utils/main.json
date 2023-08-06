@@ -1,0 +1,81 @@
+{
+  "Header": [
+    {
+      "heading": "Hi, I am a <span class=\"text-primary\">Salman Arif</span><br/><span class=\"text-primary\">Full Stack</span>  developer"
+    },
+    {
+      "heading": "Expertise in React,  & Next with backend of Node JS.<br/>Also experienced with aws EC2 management."
+    },
+    { "heading": "Worked on <span class='fw-600 text-white'>30+ Projects</span> in modern technologies." },
+    { "heading": "With great power comes great electricity bill" }
+  ],
+  "project": [
+    {
+      "img": "",
+      "languages": "React, Redux, Node, MongoDB, EC2, S3",
+      "heading": "ChertNodes",
+      "subHeading": "Minecraft servers hosting",
+      "btnText": "Live",
+      "link": ""
+    },
+    {
+      "img": "",
+      "languages": "Node, MongoDB, MySQL, EC2, S3",
+      "heading": "ProtectX",
+      "subHeading": "Discord anti-crash bot",
+      "btnText": "Live",
+      "link": ""
+    },
+    {
+      "img": "",
+      "languages": "React, Redux, Node, MongoDB, EC2, S3",
+      "heading": "Kahoot Answers Viewer",
+      "subHeading": "Get answers to your kahoot quiz",
+      "btnText": "Live",
+      "link": ""
+    }
+  ],
+  "skills": [
+    { "languages": "Html/Css, Scss, Bootstrap, JavaScript, Tailwind css, Material Ui" },
+    { "database": "MongoDB, MySQL, Redis" },
+    { "other": "AWS EC2, S3, DocumentDB, GCP" },
+    { "tools": "VSCode, Linux, Figma, Git & Github" },
+    { "frameworks": "React,  Next,  Express," }
+  ],
+  "aboutUs": [
+    { "name": "Salman Arif" },
+    {
+      "aboutYourSelf": "As a full-stack developer with expertise in React,  Node, and Next, I have a deep understanding of web development and a passion for creating engaging and interactive user experiences. With years of experience in the field, I've honed my skills in both front-end and back-end development, allowing me to seamlessly integrate the two and create cohesive, efficient web applications./My knowledge of React, Angular, and Next allows me to develop dynamic, scalable front-end interfaces that are easy to use and visually appealing. Whether I'm working on a small-scale project or a large-scale enterprise application, I take pride in ensuring that every user interaction is smooth and seamless. And with my expertise in Node, I can develop robust back-end systems that integrate seamlessly with the front-end, providing a complete end-to-end solution."
+    }
+  ],
+  "contactUs": [
+    {
+      "heading": "I’m interested in freelance opportunities. However, if you have other request or question, don’t hesitate to contact me"
+    },
+    {
+      "messageMe": [
+        { "discord": "!Elias#3519" },
+        { "mail": "salmanarif1010@gmail.com" },
+        { "phone": "+92 308 2449964" }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "GitHub": "https://github.com/salmanArif05"
+    },
+    {
+      "LinkedIn": "https://www.linkedin.com/in/salmanarif05/"
+    },
+    {
+      "Behance": "https://www.behance.net/salmanArif05"
+    },
+    {
+      "What'sapp": "+92 308 2449964"
+    }
+  ],
+  "footer": {
+    "content": "Made with ❤️ by Salman Arif",
+    "copyright": "© 2023 Salman Arif. All rights reserved."
+  }
+}
